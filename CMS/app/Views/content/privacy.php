@@ -4,7 +4,7 @@
 <section class="page-container" data-page="help">
                 <header class="page-header flex-container flex-vertical-center">
             <div class="page-header-content">
-                <h1>Yabbis Help Tool</h1>
+                <h1>Shade Help Tool</h1>
                 Je kunt hier op zoek naar antwoorden op je vragen. Vind je het antwoord op jouw vraag niet, dien dan een hulpverzoek in.
             </div>
         </header>
@@ -17,12 +17,12 @@
                                           <h4>Privacyverklaring</h4>
                       <p>
                           </p><p><span>De vertrouwelijkheid van persoonsgegevens en de bescherming van de privacy van klanten zijn belangrijke basiswaarden in al onze activiteiten. We houden ons aan de wetgeving, richtlijnen van de autoriteit en aan de goede verwerking van de gegevens van onze gebruikers, medewerkers en partners. </span></p>
-<p><span>Bij Yabbis Hotel onderhouden we een extreem hoog niveau van gegevensbescherming. We verwerken jouw persoonsgegevens alleen voor gepaste doeleinden die van tevoren zijn gedefinieerd en alleen wanneer dat nodig is. </span></p>
+<p><span>Bij Shade Hotel onderhouden we een extreem hoog niveau van gegevensbescherming. We verwerken jouw persoonsgegevens alleen voor gepaste doeleinden die van tevoren zijn gedefinieerd en alleen wanneer dat nodig is. </span></p>
 						<p><span>We beschermen onze Dienst met technisch geschikte maatregelen en we trainen ons personeel regelmatig op gebieden die verband houden met gegevensverwerking. </span></p>
 						<p><span>In dit privacybeleid hebben we de belangrijkste principes met betrekking tot gegevensbescherming opgesteld. We houden ons aan deze principes om de vertrouwelijkheid van gegevens en communicatie in onze spellen te waarborgen. Dit privacybeleid is van toepassing op al onze spellen en betreft de verwerking van alle persoonsgegevens binnen onze Diensten. </span></p>
 						<p><span>We controleren regelmatig of deze pagina's up-to-date zijn en we werken ze bij wanneer nodig.<br></span> </p>
 						<strong><span>Vertrouwelijkheid en Gegevensbescherming</span></strong>
-						<p><span>We respecteren je privacy en wij doen er alles aan om de privacy van die personen ("gebruiker(s)" of "jij") die toegang hebben tot en gebruik maken van onze games, apps, websites en gerelateerde services zoals bijvoorbeeld Yabbis (de "Diensten", de "Dienst"). </span></p>
+						<p><span>We respecteren je privacy en wij doen er alles aan om de privacy van die personen ("gebruiker(s)" of "jij") die toegang hebben tot en gebruik maken van onze games, apps, websites en gerelateerde services zoals bijvoorbeeld Shade (de "Diensten", de "Dienst"). </span></p>
 						<p><span>In al onze activiteiten beschermen we gegevens op de hoogste niveaus en verwerken wij deze op een vertrouwelijke manier. Om deze vertrouwelijkheid te waarborgen, gebruiken we passende oplossingen voor technologie en gegevensbeveiliging in combinatie met specifieke administratieve maatregelen.<br></span><span> </span></p>
 						<strong><span>Jouw rechten met betrekking tot de verwerking van jouw gegevens</span></strong>
 						<p><span>Je hebt het recht om invloed uit te oefenen op de verwerking van je eigen gegevens. </span></p>
@@ -124,9 +124,9 @@
 						<p><span>Iedereen is verantwoordelijk voor de beveiliging van gegevens. Om de bescherming van je gegevens te waarborgen, vragen wij je om aandacht te besteden aan de databeveiliging van je eigen apparaten. </span></p>
 						<p> </p>
 						<h4><span>De dekking van ons privacybeleid, onze contactinformatie en andere informatie</span></h4>
-						<p><span>Dit privacybeleid betreft de verwerking van persoonsgegevens in de door Yabbis Hotel aangeboden Diensten. </span></p>
+						<p><span>Dit privacybeleid betreft de verwerking van persoonsgegevens in de door Shade Hotel aangeboden Diensten. </span></p>
 						<p> </p>
-						<p><span>Klantenservice Yabbis Hotel: </span><a href="https://yabbis.nl/helptool"><span>https://yabbis.nl/helptool</span></a></p>
+						<p><span>Klantenservice Shade Hotel: </span><a href="https://Shade.nl/helptool"><span>https://Shade.nl/helptool</span></a></p>
                       <p></p>
                                     </article>
             </div>

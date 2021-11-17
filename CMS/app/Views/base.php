@@ -75,7 +75,7 @@
         </div>
         <?php else: ?>
             <div class="account-buttons">
-          <a href="/hotel" class="rounded-button white plain">Naar Yabbis
+          <a href="/hotel" class="rounded-button white plain">Naar Shade
           </a>
         </div>
         <?php endif ?>

@@ -6,7 +6,7 @@
 		<div class="left-side" style="height: auto !important;">
 		<article class="default-section profile-section" style="margin-bottom: 20px;">
   <div class="background-image">
-    <a href="/clienthtml" target="_blank" class="rounded-button white plain hotel-button enter-hotel">Ga naar Yabbis
+    <a href="/clienthtml" target="_blank" class="rounded-button white plain hotel-button enter-hotel">Ga naar ShadeCMS
     </a>
   </div>
   <div class="profile-content">
@@ -38,11 +38,12 @@
 			<article class="default-section">
 				<div class="aside-title">Welkom op ShadeCMS </div>
 				<div class="related-articles-container">
-					 Welkom op Yabbis, <b><?= $user->username; ?></b>! <br><br>
+					 Welkom op ShadeCMS, <b><?= $user->username; ?></b>! <br><br>
 					 ShadeCMS is een klein stabiel project gemaakt op CodeIgniter. Er zullen nog veel meer functies plaatsvinden door loop van de tijd.
 				 </div>
 			</article>
 
 		</div>
 	</div>
+
 <?= $this->endSection() ?>
