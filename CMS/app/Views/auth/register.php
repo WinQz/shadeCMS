@@ -4,7 +4,7 @@
   <header class="page-header flex-container flex-vertical-center" style="background-image: url(/assets/images/web/pages/registration/banner.png); background-color: brown;">
             <div class="page-header-content">
                 <h1>Meld je gratis aan!</h1>
-                Maak je eigen Yabbis, ontmoet of maak nieuwe vrienden en speel spelletjes!
+                Maak je eigen Shade, ontmoet of maak nieuwe vrienden en speel spelletjes!
             </div>
         </header>
   <div class="page-content">
@@ -18,7 +18,7 @@
 <form action="/registreren/create" method="POST">
     <div class="sides-container">
       <div class="content-side">
-        <h3 class="aside-title">Jouw Yabbis gegevens
+        <h3 class="aside-title">Jouw Shade gegevens
         </h3>
         <div class="row">
           <h5>E-mailadres
@@ -50,20 +50,20 @@
         </div>
       </div>
       <div class="content-side">
-        <h3 class="aside-title">Maak je Yabbis!
+        <h3 class="aside-title">Maak je Shade!
         </h3>
         <div class="row">
-          <h5>Yabbisnaam
+          <h5>Shadenaam
           </h5>
-          <input type="text" id="username" name="username" class="rounded-input blue-active" onkeyup="checkUsernameOrEmail(this.value, 'username')" maxlength="12" placeholder="Yabbisnaam...">
+          <input type="text" id="username" name="username" class="rounded-input blue-active" onkeyup="checkUsernameOrEmail(this.value, 'username')" maxlength="12" placeholder="Shadenaam...">
         </div>
         <div class="row space-bottom">
-          <div class="form-help">Jouw unieke naam in Yabbis Hotel.
+          <div class="form-help">Jouw unieke naam in Shade Hotel.
           </div>
         </div>
         <div class="row space-bottom">
         </div>
-        <input type="hidden" class="form-control" id="motto" name="motto" value="Nieuweling in Yabbis">
+        <input type="hidden" class="form-control" id="motto" name="motto" value="Nieuweling in Shade">
         <input type="hidden" class="form-control" id="avatar-code" name="habbo-avatar" value="">
         <div class="form-group">
         </div>
@@ -73,7 +73,7 @@
   <center>
     <input type="checkbox" name="bean_terms" value="true" required="">
     <small>Ik ga akkoord met de
-      <a href="/info/voorwaarden">Algemene voorwaarden
+      <a href="/info/terms">Algemene voorwaarden
       </a>.
     </small>
   </center>

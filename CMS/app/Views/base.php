@@ -26,16 +26,17 @@
     </title>
     <!-- CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/css/fonts.css?v=60">
-    <link rel="stylesheet" href="/assets/css/iziToast.css?v=60">
-    <link rel="stylesheet" href="/assets/css/flaticon.css?v=60">
-    <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=60">
-    <link rel="stylesheet" href="/assets/css/selectric.css?v=60">
-    <link rel="stylesheet" href="/assets/css/circle.css?v=60">
-    <link rel="stylesheet" href="/assets/css/web.css?v=6011f22ds">
-    <link rel="stylesheet" href="/assets/css/app.css?v=61">
-    <link rel="stylesheet" href="/assets/css/web.responsive.css?v=60">
-    <link rel="stylesheet" href="/assets/css/nanoscroller.css?v=60">
+    <link rel="stylesheet" href="/assets/css/fonts.css?v=601">
+    <link rel="stylesheet" href="/assets/css/iziToast.css?v=601">
+    <link rel="stylesheet" href="/assets/css/flaticon.css?v=601">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=601">
+    <link rel="stylesheet" href="/assets/css/selectric.css?v=601">
+    <link rel="stylesheet" href="/assets/css/circle.css?v=601">
+    <link rel="stylesheet" href="/assets/css/web.css?v=6011f22ds1">
+    <link rel="stylesheet" href="/assets/css/app.css?v=611">
+    <link rel="stylesheet" href="/assets/css/web.responsive.css?v=601">
+    <link rel="stylesheet" href="/assets/css/popup.css?v=601">
+    <link rel="stylesheet" href="/assets/css/nanoscroller.css?v=601">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!-- Scripts -->
     <script src="/assets/js/jquery-3.2.1.min.js?v=60">
@@ -43,8 +44,6 @@
     <script src="/assets/js/jquery.ui.touch-punch.min.js?v=60">
     </script>
     <script src="https://www.google.com/recaptcha/api.js?v=60">
-    </script>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
     </script>
     <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
     </script>
@@ -70,6 +69,9 @@
         </div>
         <?php if(!isset($user)): ?>
         <div class="account-buttons">
+          <a href="/" class="rounded-button white">Inloggen
+          </a>
+          <span>of</span>
           <a href="/registreren" class="rounded-button white plain">Meld je gratis aan!
           </a>
         </div>
@@ -89,12 +91,25 @@
         <a href="/me">
         </a>
       </li>
-      <li class="navigation-item selected" data-category="index">
+      <li class="navigation-item" data-category="index">
         <a href="/">Home
         </a>
       </li>
+      <li class="navigation-item has-items" data-category="index">
+        <a href="#">Community
+        </a>
+        <ul class="navigation-submenu">
+          <li class="navigation-subitem">
+            <a href="/community/management">Management
+            </a>
+          </li>
+          <li class="navigation-subitem">
+            <a href="/community/values">Ruilwaarde
+            </a>
+          </li>
+        </ul>
+      </li>
     </ul>
-    </li>
   </ul>
 </nav>
 <?php else: ?>
@@ -104,12 +119,26 @@
         <a href="/">
         </a>
       </li>
-      <li class="navigation-item has-items selected" data-category="index">
+      <li class="navigation-item has-items" data-category="index">
         <a href="/me"><?= $user->username ?>
         </a>
         <ul class="navigation-submenu">
           <li class="navigation-subitem">
             <a href="/logout">Logout
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="navigation-item has-items" data-category="index">
+        <a href="#">Community
+        </a>
+        <ul class="navigation-submenu">
+          <li class="navigation-subitem">
+            <a href="/community/management">Management
+            </a>
+          </li>
+          <li class="navigation-subitem">
+            <a href="/community/values">Ruilwaarde
             </a>
           </li>
         </ul>
@@ -123,6 +152,8 @@
 
 <?= $this->renderSection('content') ?>
 
+
+
 <footer class="footer-container">
   <div class="footer-social-buttons flex-container flex-horizontal-center">
     <a href="https://www.instagram.com/shadehotel.nl" class="instagram-button" target="_blank">
@@ -135,9 +166,9 @@
     </a>
   </div>
   <div class="footer-copyright">&copy; 2020 yourhotelname |
-    <a href="/info/regels">De Shade Regels
+    <a href="/info/rules">De Shade Regels
     </a> |
-    <a href="/info/voorwaarden">Algemene voorwaarden
+    <a href="/info/terms">Algemene voorwaarden
     </a> |
     <a href="/info/privacy">Privacyverklaring
     </a><br>

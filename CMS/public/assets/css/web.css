@@ -94,7 +94,7 @@ button, html input[type=button], input[type=reset], input[type=submit] {
     font-size: 14px;
     font-weight: 400;
     line-height: 1.42857143;
-    font-family: "Poppins", Arial, sans-serif; 
+    font-family: "Poppins", Arial, sans-serif;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
@@ -942,8 +942,7 @@ input:-webkit-autofill{
 }
 
 .login-popup:after{
-    background-image: url(../images/web/login-logo.png);
-    background-color: rgba(25, 146, 209, 0.8);
+    background-color: rgb(255 255 255 / 68%);
     background-position: 40px center;
     background-repeat: no-repeat;
     left: -94px;
@@ -3248,7 +3247,7 @@ input:-webkit-autofill{
 /* Page - Games ranking */
 .page-container[data-page = "community_value"] .page-header{
     background-image: url(../images/web/pages/value/header.png);
-    background-color: #795548;	
+    background-color: #795548;
 }
 
 .page-container[data-page = "community_value"] .ranking-container{
@@ -3256,7 +3255,7 @@ input:-webkit-autofill{
 }
 
 .page-container[data-page = "community_value"] .ranking-header{
-    background-color: #795548;	
+    background-color: #795548;
     padding: 0 20px;
     height: 80px;
     position: relative;

@@ -32,9 +32,13 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->group('', function ($routes) {
-    $routes->get('/info/voorwaarden', 'Content\PageController::voorwaarden');
-    $routes->get('/info/regels', 'Content\PageController::regels');
+    $routes->get('/info/terms', 'Content\PageController::terms');
+    $routes->get('/info/rules', 'Content\PageController::rules');
     $routes->get('/info/privacy', 'Content\PageController::privacy');
+
+    $routes->get('/community/values', 'Content\PageController::value');
+    $routes->get('/community/secondvalues', 'Content\PageController::secondvalue');
+    $routes->get('/community/management', 'Session\Community\StaffController::index');
 });
 
 $routes->group('', ['filter' => 'GuestFilter'], function ($routes) {

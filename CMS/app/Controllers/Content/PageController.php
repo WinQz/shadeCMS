@@ -7,21 +7,33 @@ use App\Controllers\BaseController;
 class PageController extends BaseController
 {
 
-    public function voorwaarden() {
+    public function terms() {
 
-		echo view('content/voorwaarden');
+		echo view('content/information/terms');
 
     }
 
-    public function regels() {
+    public function rules() {
 
-		echo view('content/regels');
+		echo view('content/information/rules');
 
     }
 
     public function privacy() {
 
-		echo view('content/privacy');
+		echo view('content/information/privacy');
+
+    }
+
+    public function value() {
+
+		echo view('content/values/value');
+
+    }
+
+    public function secondvalue() {
+
+		echo view('content/values/secondvalues');
 
     }
 
