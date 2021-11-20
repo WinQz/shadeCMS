@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=601">
     <link rel="stylesheet" href="/assets/css/selectric.css?v=601">
     <link rel="stylesheet" href="/assets/css/circle.css?v=601">
-    <link rel="stylesheet" href="/assets/css/web.css?v=6011f22ds1">
+    <link rel="stylesheet" href="/assets/css/web3.css?v=6011f22ds1">
     <link rel="stylesheet" href="/assets/css/app.css?v=611">
     <link rel="stylesheet" href="/assets/css/web.responsive.css?v=601">
     <link rel="stylesheet" href="/assets/css/popup.css?v=601">
@@ -107,6 +107,10 @@
             <a href="/community/values">Ruilwaarde
             </a>
           </li>
+	  <li class="navigation-subitem">
+            <a href="/community/values">Nieuws
+            </a>
+          </li>
         </ul>
       </li>
     </ul>
@@ -123,6 +127,10 @@
         <a href="/me"><?= $user->username ?>
         </a>
         <ul class="navigation-submenu">
+          <li class="navigation-subitem">
+            <a href="/account/information">Settings
+            </a>
+          </li>
           <li class="navigation-subitem">
             <a href="/logout">Logout
             </a>

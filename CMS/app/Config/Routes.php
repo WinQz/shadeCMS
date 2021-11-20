@@ -52,6 +52,10 @@ $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
     $routes->get('/logout', 'Auth\Login::logout');
     $routes->get('/me', 'Session\Me::index');
     $routes->get('/hotel', 'Hotel\Hotel::view');
+
+    $routes->get('/account/information', 'Session\Settings\Settingscontroller::index');
+    $routes->get('/account/password', 'Session\Settings\Settingscontroller::password');
+    $routes->post('/account/password/save', 'Session\Settings\Settingscontroller::savePassword');
 });
 
 
