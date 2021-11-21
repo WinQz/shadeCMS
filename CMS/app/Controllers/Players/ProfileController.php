@@ -14,7 +14,7 @@ class Profilecontroller extends BaseController
       
         $userProfile = $this->userModel->where('username', $username)->first();
         if(!$userProfile) {
-            return redirect()->back();
+            return redirect()->back()->with('errors', lang('User Not Found'));
         }
       
         echo view('players/profile', ['userData' => $userProfile]);
