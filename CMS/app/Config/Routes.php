@@ -39,6 +39,8 @@ $routes->group('', function ($routes) {
     $routes->get('/community/values', 'Content\PageController::value');
     $routes->get('/community/secondvalues', 'Content\PageController::secondvalue');
     $routes->get('/community/management', 'Session\Community\StaffController::index');
+
+    $routes->add('/profile/(:any)', 'Players\Profilecontroller::getProfile/$1');
 });
 
 $routes->group('', ['filter' => 'GuestFilter'], function ($routes) {

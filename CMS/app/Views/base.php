@@ -127,6 +127,10 @@
         <a href="/me"><?= $user->username ?>
         </a>
         <ul class="navigation-submenu">
+        <li class="navigation-subitem">
+            <a href="/profile/<?= $user->username; ?>">Mijn Profiel
+            </a>
+          </li>
           <li class="navigation-subitem">
             <a href="/account/information">Settings
             </a>
