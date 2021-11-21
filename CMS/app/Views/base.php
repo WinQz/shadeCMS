@@ -113,6 +113,13 @@
           </li>
         </ul>
       </li>
+      <li class="navigation-item navigation-right-side-item has-items" style="position: relative; left: -5%;">
+    <form method="POST" action="/community/search" style="position: relative; top: 17%; float: right; display: flex;">
+      <input class="rounded-input purple-active" placeholder="Search for a Shade..." name="search_user" type="text"></input>
+      <p>&nbsp;</p>
+      <input type="submit" class="rounded-button"></input>
+    </form>
+      </li>
     </ul>
   </ul>
 </nav>
