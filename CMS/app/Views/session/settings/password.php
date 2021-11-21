@@ -14,6 +14,8 @@
       <div class="settings-panel">
       <a href="/account/information" class="verification" data-label="Information">
         </a>
+        <a href="/account/email" class="email" data-label="Change Email">
+        </a>
         <a href="/account/password" class="password selected" data-label="Change Password">
         </a>
       </div>

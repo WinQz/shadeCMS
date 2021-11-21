@@ -54,6 +54,8 @@ $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
     $routes->get('/hotel', 'Hotel\Hotel::view');
 
     $routes->get('/account/information', 'Session\Settings\Settingscontroller::index');
+    $routes->get('/account/email', 'Session\Settings\Settingscontroller::email');
+    $routes->post('/account/email/save', 'Session\Settings\Settingscontroller::saveEmail');
     $routes->get('/account/password', 'Session\Settings\Settingscontroller::password');
     $routes->post('/account/password/save', 'Session\Settings\Settingscontroller::savePassword');
 });
