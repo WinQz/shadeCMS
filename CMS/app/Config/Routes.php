@@ -41,6 +41,7 @@ $routes->group('', function ($routes) {
     $routes->get('/community/management', 'Session\Community\StaffController::index');
 
     $routes->add('/profile/(:any)', 'Players\Profilecontroller::getProfile/$1');
+    $routes->add('/community/search', 'Players\Searchcontroller::searchUser');
 });
 
 $routes->group('', ['filter' => 'GuestFilter'], function ($routes) {
