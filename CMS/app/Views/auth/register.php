@@ -63,8 +63,7 @@
         </div>
         <div class="row space-bottom">
         </div>
-        <input type="hidden" class="form-control" id="motto" name="motto" value="Nieuweling in Shade">
-        <input type="hidden" class="form-control" id="avatar-code" name="habbo-avatar" value="">
+        <input type="text" class="rounded-input blue-active" placeholder="Uw Motto" id="motto" name="motto" value="Nieuweling in Shade">
         <div class="form-group">
         </div>
       </div>

@@ -22,7 +22,11 @@ class Registration extends BaseController
         $data = [
             'username'  => $this->request->getVar('username'),
             'mail'      => $this->request->getVar('email'),
-            'password'  => $this->request->getVar('password')
+            'password'  => $this->request->getVar('password'),
+            'motto'     => $this->request->getVar('motto'),
+            'account_created' => time(),
+            'ip_register'     => $_SERVER['REMOTE_ADDR'],
+            'ip_current'      => $_SERVER['REMOTE_ADDR']
         ];
 
         $errors = service('validate')->run($this->validate($rules));
