@@ -21,6 +21,7 @@ class Filters extends BaseConfig
         'honeypot' => Honeypot::class,
         'GuestFilter' => \App\Filters\GuestFilter::class,
         'LoginFilter' => \App\Filters\LoginFilter::class,
+        'AdminFilter' => \App\Filters\AdminFilter::class,
     ];
 
     /**

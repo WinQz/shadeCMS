@@ -26,14 +26,14 @@
     </title>
     <!-- CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/css/fonts.css?v=601">
-    <link rel="stylesheet" href="/assets/css/iziToast.css?v=601">
-    <link rel="stylesheet" href="/assets/css/flaticon.css?v=601">
-    <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=601">
-    <link rel="stylesheet" href="/assets/css/selectric.css?v=601">
+    <link rel="stylesheet" href="/assets/css/fonts.css?v=602">
+    <link rel="stylesheet" href="/assets/css/iziToast.css?v=602">
+    <link rel="stylesheet" href="/assets/css/flaticon.css?v=602">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=602">
+    <link rel="stylesheet" href="/assets/css/selectric.css?v=602">
     <link rel="stylesheet" href="/assets/css/circle.css?v=601">
-    <link rel="stylesheet" href="/assets/css/web3.css?v=6011f22ds1">
-    <link rel="stylesheet" href="/assets/css/app.css?v=611">
+    <link rel="stylesheet" href="/assets/css/web3.css?v=6011f2dds413">
+    <link rel="stylesheet" href="/assets/css/app.css?v=612">
     <link rel="stylesheet" href="/assets/css/web.responsive.css?v=601">
     <link rel="stylesheet" href="/assets/css/popup.css?v=601">
     <link rel="stylesheet" href="/assets/css/nanoscroller.css?v=601">
@@ -107,10 +107,6 @@
             <a href="/community/values">Ruilwaarde
             </a>
           </li>
-	  <li class="navigation-subitem">
-            <a href="/community/values">Nieuws
-            </a>
-          </li>
         </ul>
       </li>
       <li class="navigation-item navigation-right-side-item has-items" style="position: relative; left: -5%;">
@@ -171,7 +167,7 @@
       </li>
     </ul>
     </li>
-    
+
   </ul>
 </nav>
 <?php endif ?>

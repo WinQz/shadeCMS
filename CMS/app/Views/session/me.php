@@ -32,9 +32,9 @@
     </div>
   </div>
 </article>
+	</div>
 
-		</div>
-		<div class="right-side">
+	<div class="right-side">
 			<article class="default-section">
 				<div class="aside-title">Welkom op ShadeCMS </div>
 				<div class="related-articles-container">
@@ -42,8 +42,21 @@
 					 ShadeCMS is een klein stabiel project gemaakt op CodeIgniter. Er zullen nog veel meer functies plaatsvinden door loop van de tijd.
 				 </div>
 			</article>
-
 		</div>
+	<br>
+<div class="articles-container">
+	<?php foreach($newsData as $news): ?>
+      	<div class="article-container">
+          	<a href="/news/<?= $news->id ?>" class="article-content pixelated" style="background-image: url(<?= $news->image ?>);">
+                <div class="article-header">
+                    <div class="article-category"><?= $news->title ?></div>
+                    <div class="article-separation" style="background-color: cyan;"></div>
+                    <div class="article-title title" data-id="2" style=""><?= $news->short_story ?></div>
+                </div>
+            </a>
+        </div>
+	<?php endforeach; ?>
 	</div>
+</div>
 
 <?= $this->endSection() ?>

@@ -26,6 +26,7 @@
                 <div class="details-function">
                 </div>
                 <div class="details-motto">default motto
+
                 </div>
               </div>
               <center>

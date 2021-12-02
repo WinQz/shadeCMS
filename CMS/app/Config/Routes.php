@@ -38,10 +38,12 @@ $routes->group('', function ($routes) {
 
     $routes->get('/community/values', 'Content\PageController::value');
     $routes->get('/community/secondvalues', 'Content\PageController::secondvalue');
-    $routes->get('/community/management', 'Session\Community\StaffController::index');
+    $routes->get('/community/management', 'Community\StaffController::index');
 
     $routes->add('/profile/(:any)', 'Players\Profilecontroller::getProfile/$1');
-    $routes->add('/community/search', 'Players\Searchcontroller::searchUser');
+    $routes->add('/news/(:any)', 'Community\Newscontroller::getNews/$1');
+
+    $routes->post('/community/search', 'Players\Searchcontroller::searchUser');
 });
 
 $routes->group('', ['filter' => 'GuestFilter'], function ($routes) {
@@ -61,6 +63,10 @@ $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
     $routes->post('/account/email/save', 'Session\Settings\Settingscontroller::saveEmail');
     $routes->get('/account/password', 'Session\Settings\Settingscontroller::password');
     $routes->post('/account/password/save', 'Session\Settings\Settingscontroller::savePassword');
+});
+
+$routes->group('', ['filter' => 'AdminFilter'], function ($routes) {
+    $routes->get('/admin/dashboard', 'Admin/Admin::index');
 });
 
 
