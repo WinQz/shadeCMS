@@ -4,15 +4,15 @@
 <section class="page-container" data-page="article">
 	<header class="page-header flex-container flex-vertical-center" style="background-size: 100%;width: 100%;background-image: url(<?= $newsData->image ?>); background-color: #8f8c8c;">
 		<div class="page-header-content">
-		<h1><?= $newsData->title ?></h1> <?= $newsData->short_story ?> </div>
+		<h1><?= $newsData->title ?></h1> <?= $newsData->shortstory ?> </div>
 	</header>
 	<div class="page-content">
 		<div class="left-side">
 			<article class="default-section">
 				<div class="aside-title-content"><?= $newsData->title ?></div>
-				<div class="aside-desc-content"><?= $newsData->short_story ?></div>
+				<div class="aside-desc-content"><?= $newsData->shortstory ?></div>
 				<div class="aside-content">
-					<?= $newsData->long_story ?>
+					<?= $newsData->longstory ?>
 					<div class="article-author flex-container flex-vertical-center">
 						<div class="author-image"> <img src="https://habbo.com.br/habbo-imaging/avatarimage?figure=&amp;direction=2&amp;head_direction=3&amp;gesture=sml&amp;size=b&amp;headonly=1" alt="<?= $newsData->author ?>"> </div>
 						<div class="author-details">

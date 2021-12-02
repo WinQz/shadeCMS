@@ -51,7 +51,7 @@
                 <div class="article-header">
                     <div class="article-category"><?= $news->title ?></div>
                     <div class="article-separation" style="background-color: cyan;"></div>
-                    <div class="article-title title" data-id="2" style=""><?= $news->short_story ?></div>
+                    <div class="article-title title" data-id="2" style=""><?= $news->shortstory ?></div>
                 </div>
             </a>
         </div>
