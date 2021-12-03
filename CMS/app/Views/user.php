@@ -80,7 +80,7 @@
           <a href="/hotel" class="rounded-button white plain">Naar Shade
           </a>
           <?php if($user->rank >= 4): ?>
-          <a href="/admin/dashboard" class="rounded-button white plain">Admin Area
+          <span>of</span><a href="/admin/dashboard" class="rounded-button white plain">Admin Area
           </a>
           <?php endif ?>
         </div>
