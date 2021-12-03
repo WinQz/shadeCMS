@@ -1733,12 +1733,12 @@ input:-webkit-autofill{
 }
 
 .header-container.is-large .header-content .logo{
-    background-image: url(../images/web/header/leet.png);
-    width: 225px;
-    height: 83px;
+    background-image: url(https://habbofont.net/font/bling/shadecms.gif);
+    width: 299px;
+    height: 3px;
     margin: 0 auto;
-    top: 10px;
-    padding-top: 70px;
+    top: 20px;
+    padding-top: 53px;
 }
 
 .header-container.is-large .header-content .logo a{

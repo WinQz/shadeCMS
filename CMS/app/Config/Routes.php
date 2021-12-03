@@ -32,41 +32,42 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->group('', function ($routes) {
-    $routes->get('/info/terms', 'Content\PageController::terms');
-    $routes->get('/info/rules', 'Content\PageController::rules');
-    $routes->get('/info/privacy', 'Content\PageController::privacy');
+    $routes->get('/info/terms', 'User\Content\PageController::terms');
+    $routes->get('/info/rules', 'User\Content\PageController::rules');
+    $routes->get('/info/privacy', 'User\Content\PageController::privacy');
 
-    $routes->get('/community/values', 'Content\PageController::value');
-    $routes->get('/community/secondvalues', 'Content\PageController::secondvalue');
-    $routes->get('/community/management', 'Community\StaffController::index');
+    $routes->get('/community/values', 'User\Content\PageController::value');
+    $routes->get('/community/secondvalues', 'User\Content\PageController::secondvalue');
+    $routes->get('/community/management', 'User\Community\StaffController::index');
 
-    $routes->add('/profile/(:any)', 'Players\Profilecontroller::getProfile/$1');
-    $routes->add('/news/(:any)', 'Community\Newscontroller::getNews/$1');
+    $routes->add('/profile/(:any)', 'User\Players\Profilecontroller::getProfile/$1');
+    $routes->add('/news/(:any)', 'User\Community\Newscontroller::getNews/$1');
 
-    $routes->post('/community/search', 'Players\Searchcontroller::searchUser');
+    $routes->post('/community/search', 'User\Players\Searchcontroller::searchUser');
 });
 
 $routes->group('', ['filter' => 'GuestFilter'], function ($routes) {
-    $routes->get('/', 'Auth\Login::index');
-    $routes->post('/account/submit', 'Auth\Login::authentication');
-    $routes->get('/registreren', 'Auth\Registration::index');
-    $routes->post('/registreren/create', 'Auth\Registration::create');
+    $routes->get('/', 'User\Auth\Login::index');
+    $routes->post('/account/submit', 'User\Auth\Login::authentication');
+    $routes->get('/registreren', 'User\Auth\Registration::index');
+    $routes->post('/registreren/create', 'User\Auth\Registration::create');
 });
 
 $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
-    $routes->get('/logout', 'Auth\Login::logout');
-    $routes->get('/me', 'Session\Me::index');
-    $routes->get('/hotel', 'Hotel\Hotel::view');
+    $routes->get('/logout', 'User\Auth\Login::logout');
+    $routes->get('/me', 'User\Session\Me::index');
+    $routes->get('/hotel', 'User\Hotel\Hotel::view');
 
-    $routes->get('/account/information', 'Session\Settings\Settingscontroller::index');
-    $routes->get('/account/email', 'Session\Settings\Settingscontroller::email');
-    $routes->post('/account/email/save', 'Session\Settings\Settingscontroller::saveEmail');
-    $routes->get('/account/password', 'Session\Settings\Settingscontroller::password');
-    $routes->post('/account/password/save', 'Session\Settings\Settingscontroller::savePassword');
+    $routes->get('/account/information', 'User\Session\Settings\Settingscontroller::index');
+    $routes->get('/account/email', 'User\Session\Settings\Settingscontroller::email');
+    $routes->post('/account/email/save', 'User\Session\Settings\Settingscontroller::saveEmail');
+    $routes->get('/account/password', 'User\Session\Settings\Settingscontroller::password');
+    $routes->post('/account/password/save', 'User\Session\Settings\Settingscontroller::savePassword');
 });
 
 $routes->group('', ['filter' => 'AdminFilter'], function ($routes) {
-    $routes->get('/admin/dashboard', 'Admin/Admin::index');
+    $routes->get('/admin/dashboard', 'Admin/Content/PageController::dashboard');
+    $routes->get('/admin/community/online', 'Admin/Players/Onlinecontroller::onlineUsers');
 });
 
 

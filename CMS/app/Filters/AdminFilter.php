@@ -30,5 +30,8 @@ class AdminFilter implements FilterInterface
         }
     }
 
-    public function after(RequestInterface $request, ResponseInterface $response, $arguments = null) {}
+    public function after(RequestInterface $request, ResponseInterface $response, $arguments = null) 
+    {
+
+    }
 }
