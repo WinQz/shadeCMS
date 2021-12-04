@@ -18,7 +18,7 @@
 					</div>
 				</div>
 				<div class="profile-content">
-					<div class="details-container register">Shade sinds <b><?php $dateRegister = date('d-m-Y H:i:s', $userData->account_created); echo $dateRegister; ?></b></div>
+					<div class="details-container register"><?= getenv('hotel_name') ?> sinds <b><?php $dateRegister = date('d-m-Y H:i:s', $userData->account_created); echo $dateRegister; ?></b></div>
 					<div class="details-container last_login">Laatste bezoek <strong><?php $dateLastOnline = date('d-m-Y H:i:s', $userData->last_online); echo $dateLastOnline; ?></strong></div>
 					<div class="details-container status">Momenteel <?php if ($userData->online) {echo '<strong class="online">online</strong></div>';} else {echo '<strong class="offline">offline</strong></div>';} ?>
 				</div>

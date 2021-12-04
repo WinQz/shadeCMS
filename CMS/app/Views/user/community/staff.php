@@ -4,9 +4,9 @@
 <section class="page-container" data-page="community_team">
   <header class="page-header flex-container flex-vertical-center">
     <div class="page-header-content">
-      <h1>Shade Staff
+      <h1><?= getenv('hotel_name') ?> Staff
       </h1>
-      Deze Shade's vertegenwoordigen het officiële team dat verantwoordelijk is voor de goede werking van het hotel.
+      Deze <?= getenv('hotel_name') ?>'s vertegenwoordigen het officiële team dat verantwoordelijk is voor de goede werking van het hotel.
     </div>
   </header>
   <div class="page-content">

@@ -19,7 +19,7 @@ class AdminFilter implements FilterInterface
       if(session()->has('user'))
         {
           $user = $this->userModel->where('username', $this->session->get('user')->username)->first();
-          if ($user->rank < 4)
+          if ($user->rank < getenv('min_hk_rank'))
             {
               return redirect()->to('me')->with('errors', 'Not enough permissions');
             }

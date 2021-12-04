@@ -4,7 +4,7 @@
 <section class="page-container" data-page="help">
   <header class="page-header flex-container flex-vertical-center">
     <div class="page-header-content">
-      <h1>Shade Admin Panel
+      <h1><?= getenv('hotel_name') ?> Admin Panel
       </h1>
       View all Logs and manage user accounts.
     </div>
@@ -32,7 +32,7 @@
         <h3 class="aside-title">Warning
         </h3>
         <p>
-            Do not abuse the Shade Admin Panel, we can see anything. When we think / know you abused your rank you'll get unranked.
+            Do not abuse the <?= getenv('hotel_name') ?> Admin Panel, we can see anything. When we think / know you abused your rank you'll get unranked.
         </p>
 
       </aside>

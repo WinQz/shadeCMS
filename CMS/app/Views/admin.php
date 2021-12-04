@@ -7,22 +7,22 @@
     <meta name="author" content="Milan">
     <meta name="robots" content="follow, index">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="ShadeCMS" />
+    <meta name="twitter:title" content="<?= getenv('hotel_name') ?>CMS" />
     <meta name="twitter:description" content="Virtuele wereld waar je vrienden kunt maken en ontmoeten." />
     <meta name="twitter:image" content="/assets/images/summary-picture.png" />
-    <meta name="twitter:site" content="@shadeZoneFans" />
+    <meta name="twitter:site" content="@<?= getenv('hotel_name') ?>ZoneFans" />
     <meta name="twitter:url" content="http://localhost" />
     <meta name="twitter:widgets:csp" content="on" />
-    <meta property="og:title" content="shade Hotel">
+    <meta property="og:title" content="<?= getenv('hotel_name') ?> Hotel">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://localhost">
     <meta property="og:image" content="/assets/images/summary-picture.png">
     <meta property="og:description" content="Virtuele wereld waar je vrienden kunt maken en ontmoeten.">
-    <meta property="og:site_name" content="ShadeCMS">
+    <meta property="og:site_name" content="<?= getenv('hotel_name') ?>CMS">
     <meta name="description" content="Virtuele wereld voor jongeren waar je vrienden kunt maken en ontmoeten. Ontmoet en maak vrienden, chat met anderen, maak je eigen avatar, ontwerp gratis je eigen kamer en nog veel meer ...">
-    <meta name="keywords" content="shade, shade hotel, virtueel, wereld, sociaal netwerk, gratis, community, avatar, chat, online, tiener, roleplaying, doe mee, sociaal, groepen, forums, veilig, speel, games, online, vrienden, tieners, zeldzaams, zeldzame meubi, verzamelen, maak, verzamel, kom in contact, meubi, meubeks, huisdieren, kamer inrichten, delen, uitdrukking, badges, hangout, muziek, beroemdheid, VIP-visits, celebs, mmo, mmorpgs, massive multiplayer, dox, dox hotel, doxhotel, space hotel, spacehotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtuele wereld, vip, retro, retro hotel, habbo retro, gratis, gratis habbo, holo, leet, leethotel, hotel">
+    <meta name="keywords" content="<?= getenv('hotel_name') ?>, <?= getenv('hotel_name') ?> hotel, virtueel, wereld, sociaal netwerk, gratis, community, avatar, chat, online, tiener, roleplaying, doe mee, sociaal, groepen, forums, veilig, speel, games, online, vrienden, tieners, zeldzaams, zeldzame meubi, verzamelen, maak, verzamel, kom in contact, meubi, meubeks, huisdieren, kamer inrichten, delen, uitdrukking, badges, hangout, muziek, beroemdheid, VIP-visits, celebs, mmo, mmorpgs, massive multiplayer, dox, dox hotel, doxhotel, space hotel, spacehotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtuele wereld, vip, retro, retro hotel, habbo retro, gratis, gratis habbo, holo, leet, leethotel, hotel">
     <link rel="shortcut icon" href="/favi.ico" type="image/x-icon">
-    <title>Maak vrienden, speel games, maak kamers en val op! - shade Hotel
+    <title>Maak vrienden, speel games, maak kamers en val op! - <?= getenv('hotel_name') ?> Hotel
     </title>
     <!-- CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -51,14 +51,14 @@
   <div class="cookies-accept-container">
     <div class="close-container">&times;
     </div>
-    ShadeCMS maakt gebruik van eigen cookies en die van derden om zo een betere service te kunnen verlenen en zorgt er daarnaast voor dat de advertenties beter bij jouw voorkeuren aansluiten. Als je gebruik maakt van onze website ga je akkoord met ons cookie-beleid.
+    <?= getenv('hotel_name') ?>CMS maakt gebruik van eigen cookies en die van derden om zo een betere service te kunnen verlenen en zorgt er daarnaast voor dat de advertenties beter bij jouw voorkeuren aansluiten. Als je gebruik maakt van onze website ga je akkoord met ons cookie-beleid.
     <a href="/cookies" target="_blank">Lees meer
     </a>
   </div>
   <header class="header-container pixelated is-large">
     <div class="header-content">
       <div class="logo">
-        <a href="/">Shade - Admin Area
+        <a href="/"><?= getenv('hotel_name') ?> - Admin Area
         </a>
       </div>
       <div class="account-container">
@@ -126,23 +126,23 @@
 
 <footer class="footer-container">
   <div class="footer-social-buttons flex-container flex-horizontal-center">
-    <a href="https://www.instagram.com/shadehotel.nl" class="instagram-button" target="_blank">
+    <a href="https://www.instagram.com/<?= getenv('hotel_name') ?>hotel.nl" class="instagram-button" target="_blank">
     </a>
-    <a href="https://www.facebook.com/shadehotelnl" class="facebook-button" target="_blank">
+    <a href="https://www.facebook.com/<?= getenv('hotel_name') ?>hotelnl" class="facebook-button" target="_blank">
     </a>
-    <a href="https://www.twitter.com/shadeZoneFans" class="twitter-button" target="_blank">
+    <a href="https://www.twitter.com/<?= getenv('hotel_name') ?>ZoneFans" class="twitter-button" target="_blank">
     </a>
     <a href="https://discord.gg/AUAb9GKFm3" class="discord-button" target="_blank">
     </a>
   </div>
   <div class="footer-copyright">&copy; 2020 yourhotelname |
-    <a href="/info/rules">De Shade Regels
+    <a href="/info/rules">De <?= getenv('hotel_name') ?> Regels
     </a> |
     <a href="/info/terms">Algemene voorwaarden
     </a> |
     <a href="/info/privacy">Privacyverklaring
     </a><br>
-    ShadeCMS 1.0 (beta) | Made By Milan
+    ShadeCMS <?= getenv('shade_version') ?> (beta) | Made By Milan
   </div>
 </footer>
 <script src="/assets/js/js.cookie.js?v=60">

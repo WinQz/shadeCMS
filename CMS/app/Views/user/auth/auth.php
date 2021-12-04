@@ -7,12 +7,12 @@
       <div class="sides-container">
         <div>
           <div id="login-dialog" class="login-popup zoom-anim-dialog">
-            <h3 class="aside-title">Log in op ShadeCMS
+            <h3 class="aside-title">Log in op <?= getenv('hotel_name') ?>
             </h3>
           <form method="POST" action="/account/submit">
             <div class="login-form">
               <label for="login-username-input-target" class="username-input">
-                <input type="text" name="username" class="rounded-input blue-active" id="login-username-input-target" placeholder="Shadenaam..." required="">
+                <input type="text" name="username" class="rounded-input blue-active" id="login-username-input-target" placeholder="<?= getenv('hotel_name') ?>naam..." required="">
                 <i class="flaticon-user-1">
                 </i>
               </label>
@@ -23,7 +23,7 @@
               </label>
               <a href="password/claim" class="claim-password" data-close-popup="true" style="margin-top:1px">Wachtwoord/naam kwijt?
               </a>
-              <button type="submit" class="rounded-button blue plain" id="login-request">Log in
+              <button type="submit" class="rounded-button blue plain" id="login-request">Log in <?= getenv('hotel_name') ?>
               </button>
             </div>
           </form>

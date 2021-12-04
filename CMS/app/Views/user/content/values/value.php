@@ -6,7 +6,7 @@
     <div class="page-header-content">
       <h1>Ruilwaarde
       </h1>
-      Bekijk hier de waardes van Meubi's in ShadeCMS.
+      Bekijk hier de waardes van Meubi's in <?= getenv('hotel_name') ?>.
     </div>
   </header>
   <div class="page-content">

@@ -6,7 +6,7 @@
     <div class="page-header-content">
       <h1>Online Users
       </h1>
-      View all online users in Shade
+      View all online users in <?= getenv('hotel_name') ?>
     </div>
   </header>
   <div class="page-content">
@@ -14,7 +14,7 @@
       <article class="default-section">
         <h3 class="aside-title">Online Users
         </h3>
-        <h4>Current playing shade's.
+        <h4>Current playing <?= getenv('hotel_name') ?>'s.
         </h4>
         <p>
         <?php foreach($onlineUserData as $onlineUsers): ?>

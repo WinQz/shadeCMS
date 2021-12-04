@@ -4,7 +4,7 @@
   <header class="page-header flex-container flex-vertical-center" style="background-image: url(/assets/images/web/pages/registration/banner.png); background-color: brown;">
             <div class="page-header-content">
                 <h1>Meld je gratis aan!</h1>
-                Maak je eigen Shade, ontmoet of maak nieuwe vrienden en speel spelletjes!
+                Maak je eigen <?= getenv('hotel_name') ?>, ontmoet of maak nieuwe vrienden en speel spelletjes!
             </div>
         </header>
   <div class="page-content">
@@ -18,7 +18,7 @@
 <form action="/registreren/create" method="POST">
     <div class="sides-container">
       <div class="content-side">
-        <h3 class="aside-title">Jouw Shade gegevens
+        <h3 class="aside-title">Jouw <?= getenv('hotel_name') ?> gegevens
         </h3>
         <div class="row">
           <h5>E-mailadres
@@ -50,20 +50,20 @@
         </div>
       </div>
       <div class="content-side">
-        <h3 class="aside-title">Maak je Shade!
+        <h3 class="aside-title">Maak je <?= getenv('hotel_name') ?>!
         </h3>
         <div class="row">
-          <h5>Shadenaam
+          <h5><?= getenv('hotel_name') ?>naam
           </h5>
-          <input type="text" id="username" name="username" class="rounded-input blue-active" onkeyup="checkUsernameOrEmail(this.value, 'username')" maxlength="12" placeholder="Shadenaam...">
+          <input type="text" id="username" name="username" class="rounded-input blue-active" onkeyup="checkUsernameOrEmail(this.value, 'username')" maxlength="12" placeholder="<?= getenv('hotel_name') ?>naam...">
         </div>
         <div class="row space-bottom">
-          <div class="form-help">Jouw unieke naam in Shade Hotel.
+          <div class="form-help">Jouw unieke naam in <?= getenv('hotel_name') ?> Hotel.
           </div>
         </div>
         <div class="row space-bottom">
         </div>
-        <input type="text" class="rounded-input blue-active" placeholder="Uw Motto" id="motto" name="motto" value="Nieuweling in Shade">
+        <input type="text" class="rounded-input blue-active" placeholder="Uw Motto" id="motto" name="motto" value="Nieuweling in <?= getenv('hotel_name') ?>">
         <div class="form-group">
         </div>
       </div>
