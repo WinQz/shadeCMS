@@ -8,7 +8,8 @@ class Profilecontroller extends BaseController
 
     public function __construct() {
         $this->userModel = model('UserModel');
-    }
+        $this->badgesModel = model('BadgeModel');
+        }
 
     public function getProfile($username) {
       
@@ -16,8 +17,12 @@ class Profilecontroller extends BaseController
         if(!$userProfile) {
             return redirect()->back()->with('errors', lang('User Not Found'));
         }
+
+        $getUserBadges = $this->badgesModel->where('user_id', $userProfile->id)->findAll();
       
-        echo view('user/players/profile', ['userData' => $userProfile]);
+        return view('user/players/profile', 
+        ['userData' => $userProfile,
+         'badgesData' => $getUserBadges]);
     }
 
 }

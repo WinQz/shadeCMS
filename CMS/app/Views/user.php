@@ -79,7 +79,7 @@
         <div class="account-buttons">
           <a href="/hotel" class="rounded-button white plain">Naar <?= getenv('hotel_name') ?>
           </a>
-          <?php if($user->rank >= 4): ?>
+          <?php if($user->rank >= getenv('min_hk_rank')): ?>
           <span>of</span><a href="/admin/dashboard" class="rounded-button white plain">Admin Area
           </a>
           <?php endif ?>

@@ -44,9 +44,14 @@ Mijn informatie
 				<div class="badges"></div>
 				<article class="default-section" data-section="badges">
 					<h3 class="aside-title">Badges
-<span> van <?= $userData->username; ?></span>
-</h3>
-					<div class="items-container">Soon</div>
+						<span> van <?= $userData->username; ?></span>
+					</h3>
+					<div class="items-container">
+						<?php foreach($badgesData as $userBadges): ?>
+							<img src="<?= getenv('badge_image') ?><?= $userBadges->badge_code; ?>.gif">
+						<?php endforeach; ?>
+					
+					</div>
 				</article>
 				<div class="friends"></div>
 				<article class="default-section" data-section="friends">
