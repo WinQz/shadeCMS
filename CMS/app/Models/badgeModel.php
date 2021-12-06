@@ -9,6 +9,6 @@ class BadgeModel extends Model {
     protected $table = 'users_badges';
     protected $returnType = 'object';
 
-    protected $allowedFields = ['id', 'user_id', 'shortstory', 'slot_id', 'badge_code'];
+    protected $allowedFields = ['id', 'user_id', 'slot_id', 'badge_code'];
 
 }
