@@ -15,7 +15,6 @@ class AdminFilter implements FilterInterface
 
     public function before(RequestInterface $request, $arguments = null) {
 
-
       if(session()->has('user'))
         {
           $user = $this->userModel->where('username', $this->session->get('user')->username)->first();

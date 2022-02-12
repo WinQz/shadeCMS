@@ -12,7 +12,7 @@ class UserModel extends Model {
     protected $beforeInsert = ['hashPassword'];
     protected $beforeUpdate = ['hashPassword'];
   
-    protected $allowedFields = ['id', 'username', 'password', 'mail', 'account_created', 'last_login', 'online', 'pincode', 'last_online' ,'motto' ,'look' ,'gender' ,'rank', 'credits', 'auth_ticket', 'ip_register', 'ip_current', 'machine_id', 'secret_code'];
+    protected $allowedFields = ['id', 'username', 'password', 'mail', 'account_created', 'last_login', 'online', 'pincode', 'last_online' ,'motto' ,'look' ,'gender' ,'rank', 'credits', 'points', 'auth_ticket', 'ip_register', 'ip_current', 'machine_id', 'secret_code'];
   
     protected function hashPassword(array $data)
     {

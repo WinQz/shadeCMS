@@ -9,3 +9,13 @@ CREATE TABLE `shade_news` (
   `date` int(11) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+
+CREATE TABLE `shade_badgeshop` (
+  `id` int(255) NOT NULL,
+  `badge_code` varchar(255) NOT NULL,
+  `price` int(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+ALTER TABLE `shade_badgeshop`
+  ADD PRIMARY KEY (`id`);
+COMMIT;

@@ -63,6 +63,9 @@ $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
     $routes->post('/account/email/save', 'User\Session\Settings\Settingscontroller::saveEmail');
     $routes->get('/account/password', 'User\Session\Settings\Settingscontroller::password');
     $routes->post('/account/password/save', 'User\Session\Settings\Settingscontroller::savePassword');
+
+    $routes->get('/shop/badgeshop', 'User\Shop\BadgeShopController::getBadges');
+    $routes->add('/shop/badgeshop/(:any)', 'User\Shop\BadgeShopController::buyBadge/$1');
 });
 
 $routes->group('', ['filter' => 'AdminFilter'], function ($routes) {
