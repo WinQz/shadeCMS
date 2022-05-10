@@ -25,6 +25,12 @@ class Registration extends BaseController
             'password'  => $this->request->getVar('password'),
             'motto'     => $this->request->getVar('motto'),
             'account_created' => time(),
+			
+			// User Registration Reward 
+			'credits' => 50000, 
+			'pixels' => 500,
+			'points' => 15,
+			
             'ip_register'     => $_SERVER['REMOTE_ADDR'],
             'ip_current'      => $_SERVER['REMOTE_ADDR']
         ];

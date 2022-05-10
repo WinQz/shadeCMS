@@ -17,16 +17,16 @@ class Settingscontroller extends BaseController
 
     public function index() {
 
-        echo view('user/session/settings/information');
+        return view('user/session/settings/information');
     }
 
     public function password() {
 
-        echo view('user/session/settings/password');
+        return view('user/session/settings/password');
     }
 
     public function email() {
-        echo view('user/session/settings/email');
+        return view('user/session/settings/email');
     }
 
     public function savePassword() {

@@ -7,7 +7,7 @@ class StaffController extends BaseController
 {
     public function index() {
 
-        echo view('user/community/staff');
+        return view('user/community/staff');
     }
 
 }

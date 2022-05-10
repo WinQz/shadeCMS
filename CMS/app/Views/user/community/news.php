@@ -14,7 +14,7 @@
 				<div class="aside-content">
 					<?= $newsData->longstory ?>
 					<div class="article-author flex-container flex-vertical-center">
-						<div class="author-image"> <img src="https://habbo.com.br/habbo-imaging/avatarimage?figure=&amp;direction=2&amp;head_direction=3&amp;gesture=sml&amp;size=b&amp;headonly=1" alt="<?= $newsData->author ?>"> </div>
+						<div class="author-image"> <img src="<?= getenv('hotel_url') ?>/avatar/avatarimage.php?figure=hr-831-37.hd-195-19.ch-3015-82.lg-280-82.cc-6908714-1408&amp;direction=2&amp;head_direction=3&amp;gesture=sml&amp;size=b&amp;headonly=1" alt="<?= $newsData->author ?>"> </div>
 						<div class="author-details">
 							<div class="author-name"><a href="/profile/<?= $newsData->author ?>" class="related-article-container"><?= $newsData->author ?></a></div>
 						</div>

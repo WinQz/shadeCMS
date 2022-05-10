@@ -19,7 +19,7 @@ class Searchcontroller extends BaseController
             return redirect()->to('/profile/'. $searchFor);
         }
 
-    return redirect()->back()->with('errors', $errors);
+        return redirect()->back()->with('errors', $errors);
     }
 
 }

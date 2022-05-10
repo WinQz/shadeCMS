@@ -26,6 +26,11 @@ class Login extends BaseController
         $password = $this->request->getVar('password', FILTER_SANITIZE_STRING);
 
         $user = $this->userModel->where('username', $username)->first();
+		
+		$accountDown = $user->account_down;
+		if($accountDown) {
+            return redirect()->back()->with('errors', lang('Account uitgezet door het staffteam'));
+        }
 
         if($this->validate($rules) && $user && password_verify($password, $user->password)) {
             $this->session->set(
@@ -37,7 +42,7 @@ class Login extends BaseController
                 'Welcome To Shade, <b>' . $username . '</b>'
             );
         } else {
-            return redirect()->back()->with('errors', lang('Site.validation.login'));
+            return redirect()->back()->with('errors', lang('Gebruikersnaam of wachtwoord onjuist'));
         }
 
         return redirect()->back()->with('errors', $this->validator->getErrors());

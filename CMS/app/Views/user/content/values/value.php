@@ -30,7 +30,7 @@
           <tbody>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/royal_chair_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/royal_chair_icon.png" class="pixelated">
               </td>
               <td>Royal Chair
               </td>
@@ -46,7 +46,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ads_mtvtrophy_Yabbis_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ads_mtvtrophy_Yabbis_icon.png" class="pixelated">
               </td>
               <td>Gouden MTV Award
               </td>
@@ -62,7 +62,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_elephant_statue_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_elephant_statue_icon.png" class="pixelated">
               </td>
               <td>Gouden olifant
               </td>
@@ -78,7 +78,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/throne_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/throne_icon.png" class="pixelated">
               </td>
               <td>Troon
               </td>
@@ -94,7 +94,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/anniversary_r18_throne_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/anniversary_r18_throne_icon.png" class="pixelated">
               </td>
               <td>Prinselijke Troon
               </td>
@@ -110,7 +110,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/hc_lmp_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/hc_lmp_icon.png" class="pixelated">
               </td>
               <td>Olielamp
               </td>
@@ -126,7 +126,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/prize1_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/prize1_icon.png" class="pixelated">
               </td>
               <td>Gouden Beker
               </td>
@@ -142,7 +142,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_dragonlamp_6_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_dragonlamp_6_icon.png" class="pixelated">
               </td>
               <td>Gouden Vuurdraak
               </td>
@@ -158,7 +158,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/typingmachine_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/typingmachine_icon.png" class="pixelated">
               </td>
               <td>Typemachine
               </td>
@@ -174,7 +174,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/prize3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/prize3_icon.png" class="pixelated">
               </td>
               <td>Bronzen Beker
               </td>
@@ -190,7 +190,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Yabbis_clouddrag_final_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Yabbis_clouddrag_final_icon.png" class="pixelated">
               </td>
               <td>Gouden Wolken Draak
               </td>
@@ -206,7 +206,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/elys_dragonlamp_valn_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/elys_dragonlamp_valn_icon.png" class="pixelated">
               </td>
               <td>Valentijn Vuurdraak
               </td>
@@ -222,7 +222,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/sha_earthdragon_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/sha_earthdragon_icon.png" class="pixelated">
               </td>
               <td>Aarde Draak
               </td>
@@ -238,7 +238,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/frostclouddrag_final_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/frostclouddrag_final_icon.png" class="pixelated">
               </td>
               <td>Paarse Wolken Draak
               </td>
@@ -254,7 +254,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/silv_clouddrag_final_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/silv_clouddrag_final_icon.png" class="pixelated">
               </td>
               <td>Zilveren Wolken Draak
               </td>
@@ -270,7 +270,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/poster10_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/poster10_icon.png" class="pixelated">
               </td>
               <td>Lapland
               </td>
@@ -286,7 +286,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/bron_clouddrag_final_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/bron_clouddrag_final_icon.png" class="pixelated">
               </td>
               <td>Bronzen Wolken Draak
               </td>
@@ -302,7 +302,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_Dino_Synstir_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_Dino_Synstir_icon.png" class="pixelated">
               </td>
               <td>Holo Dino
               </td>
@@ -318,7 +318,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/kimberl_eggfountain_warlo_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/kimberl_eggfountain_warlo_icon.png?v=1" class="pixelated">
               </td>
               <td>Blauw Ei Fontein
               </td>
@@ -334,7 +334,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/tardis0_bigdrago4_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/tardis0_bigdrago4_icon.png" class="pixelated">
               </td>
               <td>Gouden Mega Draak
               </td>
@@ -350,7 +350,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/p1ll0w_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/p1ll0w_icon.png" class="pixelated">
               </td>
               <td>Nyan Kussen
               </td>
@@ -366,7 +366,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/jadeegg_eggfountain_warlo_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/jadeegg_eggfountain_warlo_icon.png?v=1" class="pixelated">
               </td>
               <td>Jade Ei Fontein
               </td>
@@ -382,7 +382,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_dragonlamp_9_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_dragonlamp_9_icon.png" class="pixelated">
               </td>
               <td>Purperen Vuurdraak
               </td>
@@ -398,7 +398,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/LZ_phoeni2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/LZ_phoeni2_icon.png" class="pixelated">
               </td>
               <td>Groene Feniks
               </td>
@@ -414,7 +414,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_beehive_bulb_2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_beehive_bulb_2_icon.png" class="pixelated">
               </td>
               <td>Gouden Toverlantaarn
               </td>
@@ -430,7 +430,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ads_leeet_trophy_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ads_leeet_trophy_icon.png" class="pixelated">
               </td>
               <td>Yabbis trofee
               </td>
@@ -446,7 +446,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ltd_habberge3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ltd_habberge3_icon.png" class="pixelated">
               </td>
               <td>Maw-Sit-Sit Ei
               </td>
@@ -462,7 +462,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_dragonlamp_3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_dragonlamp_3_icon.png" class="pixelated">
               </td>
               <td>Zilveren Vuurdraak
               </td>
@@ -478,7 +478,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_dragonlamp_8_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_dragonlamp_8_icon.png" class="pixelated">
               </td>
               <td>Bronzen Vuurdraak
               </td>
@@ -494,7 +494,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/poster7_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/poster7_icon.png" class="pixelated">
               </td>
               <td>Vitrine met hamer
               </td>
@@ -510,7 +510,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/poster31_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/poster31_icon.png" class="pixelated">
               </td>
               <td>System of a Ban
               </td>
@@ -526,7 +526,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lm_drnegg_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lm_drnegg_icon.png" class="pixelated">
               </td>
               <td>Zeldzame Ei
               </td>
@@ -542,7 +542,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Weed3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Weed3_icon.png" class="pixelated">
               </td>
               <td>Pot Ei
               </td>
@@ -558,7 +558,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mnstn16_dice_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mnstn16_dice_icon.png" class="pixelated">
               </td>
               <td>Kristallen Dobbel
               </td>
@@ -574,7 +574,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Weed2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Weed2_icon.png" class="pixelated">
               </td>
               <td>Wiet Ei
               </td>
@@ -590,7 +590,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Yabbis_chinahorse_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Yabbis_chinahorse_icon.png" class="pixelated">
               </td>
               <td>Goud Chinees Paard
               </td>
@@ -606,7 +606,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ravenmtsh17_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ravenmtsh17_icon.png" class="pixelated">
               </td>
               <td>Diamant Shisha
               </td>
@@ -622,7 +622,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ravenmtsh13_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ravenmtsh13_icon.png" class="pixelated">
               </td>
               <td>Legendarische Zakelijke Shisha
               </td>
@@ -638,7 +638,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/anlphbt_throne2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/anlphbt_throne2_icon.png" class="pixelated">
               </td>
               <td>Gele Duivelse Troon
               </td>
@@ -654,7 +654,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/WeedTN_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/WeedTN_icon.png" class="pixelated">
               </td>
               <td>Wiet Troon
               </td>
@@ -670,7 +670,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/prize2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/prize2_icon.png" class="pixelated">
               </td>
               <td>Zilveren Beker
               </td>
@@ -686,7 +686,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/throng_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/throng_icon.png" class="pixelated">
               </td>
               <td>Gouden Troon
               </td>
@@ -702,7 +702,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_nelly_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_nelly_icon.png" class="pixelated">
               </td>
               <td>Holo Nelly
               </td>
@@ -718,7 +718,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/SPECIALCOINS_50_ZR_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/SPECIALCOINS_50_ZR_icon.png" class="pixelated">
               </td>
               <td>Roze Handboek
               </td>
@@ -734,7 +734,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/thronp_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/thronp_icon.png" class="pixelated">
               </td>
               <td>Paarse Troon
               </td>
@@ -750,7 +750,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/hobba2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/hobba2_icon.png" class="pixelated">
               </td>
               <td>Roze Troon
               </td>
@@ -766,7 +766,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/hobba4_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/hobba4_icon.png" class="pixelated">
               </td>
               <td>Bronzen Troon
               </td>
@@ -782,7 +782,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Yabbis_stone_dragnn_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Yabbis_stone_dragnn_icon.png" class="pixelated">
               </td>
               <td>Gouden Steen Vuurdraak
               </td>
@@ -798,7 +798,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/trophy_ltd18_wcup_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/trophy_ltd18_wcup_icon.png" class="pixelated">
               </td>
               <td>Yabbis FIFA Beker
               </td>
@@ -814,7 +814,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/denni_aldragi1234s_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/denni_aldragi1234s_icon.png" class="pixelated">
               </td>
               <td>Sierlijke Wolken Draak
               </td>
@@ -830,7 +830,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ltd_habberge1_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ltd_habberge1_icon.png" class="pixelated">
               </td>
               <td>Lapis Lazuli Ei
               </td>
@@ -846,7 +846,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/noble18_dragonfountain_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/noble18_dragonfountain_icon.png?v=1" class="pixelated">
               </td>
               <td>Edele Draken Fontein
               </td>
@@ -862,7 +862,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/hobba3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/hobba3_icon.png" class="pixelated">
               </td>
               <td>Blauwe Troon
               </td>
@@ -878,7 +878,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mnstn16_dragonlamp_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mnstn16_dragonlamp_icon.png?v=1" class="pixelated">
               </td>
               <td>Zilveren Steen Vuurdraak
               </td>
@@ -894,7 +894,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/easter16_habberge7ltd_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/easter16_habberge7ltd_icon.png" class="pixelated">
               </td>
               <td>Bloeiend Habberge Ei
               </td>
@@ -910,7 +910,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_sternendrache_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_sternendrache_icon.png?v=1" class="pixelated">
               </td>
               <td>Vlinder Draak
               </td>
@@ -926,7 +926,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/fball_Yabbisenboot_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/fball_Yabbisenboot_icon.png" class="pixelated">
               </td>
               <td>Gouden Schoen
               </td>
@@ -942,7 +942,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix5_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix5_icon.png" class="pixelated">
               </td>
               <td>Aqua Kerstfantje
               </td>
@@ -958,7 +958,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_drago0_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_drago0_icon.png" class="pixelated">
               </td>
               <td>Zilveren Holo Draak
               </td>
@@ -974,7 +974,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_350_sceptre_icon.png?v=1" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_350_sceptre_icon.png?v=1" class="pixelated">
               </td>
               <td>Gouden Scepter
               </td>
@@ -990,7 +990,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix2_icon.png" class="pixelated">
               </td>
               <td>Oranje Kerstfantje
               </td>
@@ -1006,7 +1006,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix3_icon.png" class="pixelated">
               </td>
               <td>Geel Kerstfantje
               </td>
@@ -1022,7 +1022,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix4_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix4_icon.png" class="pixelated">
               </td>
               <td>Grasgroen Kerstfantje
               </td>
@@ -1038,7 +1038,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix6_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix6_icon.png" class="pixelated">
               </td>
               <td>Blauw Kerstfantje
               </td>
@@ -1054,7 +1054,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix7_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix7_icon.png" class="pixelated">
               </td>
               <td>Paars Kerstfantje
               </td>
@@ -1070,7 +1070,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix8_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix8_icon.png" class="pixelated">
               </td>
               <td>Roze Kerstfantje
               </td>
@@ -1086,7 +1086,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/XmasNellyRaix9_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/XmasNellyRaix9_icon.png" class="pixelated">
               </td>
               <td>Groen Kerstfantje
               </td>
@@ -1102,7 +1102,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/thronb_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/thronb_icon.png" class="pixelated">
               </td>
               <td>Hemels Blauwe Troon
               </td>
@@ -1118,7 +1118,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rainb_egg_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rainb_egg_icon.png" class="pixelated">
               </td>
               <td>Regenboog Wolken Ei
               </td>
@@ -1134,7 +1134,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_drago3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_drago3_icon.png" class="pixelated">
               </td>
               <td>Gouden Holo Draak
               </td>
@@ -1150,7 +1150,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/loyalty_fant_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/loyalty_fant_icon.png" class="pixelated">
               </td>
               <td>Gouden Olifant Fontijn
               </td>
@@ -1166,7 +1166,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/hobba5_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/hobba5_icon.png" class="pixelated">
               </td>
               <td>Groene Troon
               </td>
@@ -1182,7 +1182,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_drago7_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_drago7_icon.png" class="pixelated">
               </td>
               <td>Paarse Holo Draak
               </td>
@@ -1198,7 +1198,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_drago2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_drago2_icon.png" class="pixelated">
               </td>
               <td>Bronzen Holo Draak
               </td>
@@ -1214,7 +1214,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_diamond_2500_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_diamond_2500_icon.png" class="pixelated">
               </td>
               <td>Beeldige Kroon
               </td>
@@ -1230,7 +1230,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_stpat14_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_stpat14_icon.png" class="pixelated">
               </td>
               <td>Pot met Goud
               </td>
@@ -1246,7 +1246,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/dragonlampjusttime_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/dragonlampjusttime_icon.png" class="pixelated">
               </td>
               <td>Rasta Vuurdraak
               </td>
@@ -1262,7 +1262,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Bob1o_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Bob1o_icon.png" class="pixelated">
               </td>
               <td>Bob Marley Ei
               </td>
@@ -1278,7 +1278,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_350_skull_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_350_skull_icon.png" class="pixelated">
               </td>
               <td>Kristallen schedel
               </td>
@@ -1294,7 +1294,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/thro13_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/thro13_icon.png" class="pixelated">
               </td>
               <td>Cosmos Troon
               </td>
@@ -1310,7 +1310,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/jt_xmas_fix_st_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/jt_xmas_fix_st_icon.png" class="pixelated">
               </td>
               <td>Rood Kerstfantje
               </td>
@@ -1326,7 +1326,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/ltd_habberge5_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/ltd_habberge5_icon.png" class="pixelated">
               </td>
               <td>Donkere Saffier
               </td>
@@ -1342,7 +1342,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/shangrila_dragon_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/shangrila_dragon_icon.png" class="pixelated">
               </td>
               <td>Kleurrijke Vuurdraak
               </td>
@@ -1358,7 +1358,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_majestic_dragonlamp_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_majestic_dragonlamp_icon.png" class="pixelated">
               </td>
               <td>God van de Draken
               </td>
@@ -1374,7 +1374,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/poster1004_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/poster1004_icon.png" class="pixelated">
               </td>
               <td>Eid Mubarak
               </td>
@@ -1390,7 +1390,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_bronze_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_bronze_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Brons
               </td>
@@ -1406,7 +1406,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_blue_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_blue_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Blauw
               </td>
@@ -1422,7 +1422,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_sky_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_sky_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Lichtblauw
               </td>
@@ -1438,7 +1438,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_green_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_green_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Groen
               </td>
@@ -1454,7 +1454,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_silver_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_silver_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Zilver
               </td>
@@ -1470,7 +1470,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_pink_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_pink_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Roze
               </td>
@@ -1486,7 +1486,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_red_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_red_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Rood
               </td>
@@ -1502,7 +1502,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_black_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_black_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Zwart
               </td>
@@ -1518,7 +1518,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_frost_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_frost_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Paars
               </td>
@@ -1534,7 +1534,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/mrare_rarityfountn_jade_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/mrare_rarityfountn_jade_icon.png" class="pixelated">
               </td>
               <td>Draak Fontein Jade
               </td>
@@ -1550,7 +1550,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/crazym_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/crazym_icon.png" class="pixelated">
               </td>
               <td>Kleurrijke Troon
               </td>
@@ -1566,7 +1566,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/tard_xs_dragon_07_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/tard_xs_dragon_07_icon.png" class="pixelated">
               </td>
               <td>Purperen Mini Vuurdraak
               </td>
@@ -1582,7 +1582,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/tard_xs_dragon_03_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/tard_xs_dragon_03_icon.png" class="pixelated">
               </td>
               <td>Gouden Mini Vuurdraak
               </td>
@@ -1598,7 +1598,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/tard_xs_dragon_11_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/tard_xs_dragon_11_icon.png" class="pixelated">
               </td>
               <td>Zilveren Mini Vuurdraak
               </td>
@@ -1614,7 +1614,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Dino_StatueK_6_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Dino_StatueK_6_icon.png" class="pixelated">
               </td>
               <td>Gouden Ei Beeld
               </td>
@@ -1630,7 +1630,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Dino_StatueK_9_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Dino_StatueK_9_icon.png" class="pixelated">
               </td>
               <td>Paarse Ei Beeld
               </td>
@@ -1646,7 +1646,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Dino_StatueK_8_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Dino_StatueK_8_icon.png" class="pixelated">
               </td>
               <td>Bronzen Ei Beeld
               </td>
@@ -1662,7 +1662,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/Dino_StatueK_3_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/Dino_StatueK_3_icon.png" class="pixelated">
               </td>
               <td>Zilveren Ei Beeld
               </td>
@@ -1678,7 +1678,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/snrbea_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/snrbea_icon.png" class="pixelated">
               </td>
               <td>Snorlax Zitzak
               </td>
@@ -1694,7 +1694,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/pill04_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/pill04_icon.png" class="pixelated">
               </td>
               <td>Cosmos Kussen
               </td>
@@ -1710,7 +1710,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_diamond_1000_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_diamond_1000_icon.png" class="pixelated">
               </td>
               <td>Klassieke Kroon
               </td>
@@ -1726,7 +1726,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/tard_xs_dragon_02_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/tard_xs_dragon_02_icon.png" class="pixelated">
               </td>
               <td>Bronzen Mini Vuurdraak
               </td>
@@ -1742,7 +1742,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/wedthr_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/wedthr_icon.png" class="pixelated">
               </td>
               <td>Kleurige Wiet Troon
               </td>
@@ -1758,7 +1758,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin5a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin5a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Beker
               </td>
@@ -1774,7 +1774,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin4a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin4a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Trofee
               </td>
@@ -1790,7 +1790,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin3a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin3a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Kussen
               </td>
@@ -1806,7 +1806,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin2a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin2a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Ei
               </td>
@@ -1822,7 +1822,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin1a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin1a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Schatkist
               </td>
@@ -1838,7 +1838,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/yhwgevent_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/yhwgevent_icon.png" class="pixelated">
               </td>
               <td>Vliegende Wired Ei
               </td>
@@ -1854,7 +1854,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/lumin6a_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/lumin6a_icon.png" class="pixelated">
               </td>
               <td>Vliegend Gouden Diamant
               </td>
@@ -1870,7 +1870,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/holo_Weed_Synstir_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/holo_Weed_Synstir_icon.png" class="pixelated">
               </td>
               <td>Wiet Holo
               </td>
@@ -1886,7 +1886,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/totem_head_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/totem_head_icon.png" class="pixelated">
               </td>
               <td>Bruine Bensalem
               </td>
@@ -1902,7 +1902,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_r17_flyingdragon_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_r17_flyingdragon_icon.png" class="pixelated">
               </td>
               <td>Hemelse vuurdraak
               </td>
@@ -1918,7 +1918,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/totem_heas_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/totem_heas_icon.png" class="pixelated">
               </td>
               <td>Blauwe Bensalem
               </td>
@@ -1934,7 +1934,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_diamond_100_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_diamond_100_icon.png" class="pixelated">
               </td>
               <td>Ring Met Smaragd
               </td>
@@ -1950,7 +1950,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_diamond_250_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_diamond_250_icon.png" class="pixelated">
               </td>
               <td>Parelketting
               </td>
@@ -1966,7 +1966,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/CF_diamond_500_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/CF_diamond_500_icon.png" class="pixelated">
               </td>
               <td>Grote Vette Edelsteen
               </td>
@@ -1982,7 +1982,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/moth_pllr_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/moth_pllr_icon.png" class="pixelated">
               </td>
               <td>Gouden Fantje Pilaar
               </td>
@@ -1998,7 +1998,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/egypt_elephant_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/egypt_elephant_icon.png" class="pixelated">
               </td>
               <td>Egyptische Olifant
               </td>
@@ -2014,7 +2014,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/prtem_head_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/prtem_head_icon.png" class="pixelated">
               </td>
               <td>Paarse Bensalem
               </td>

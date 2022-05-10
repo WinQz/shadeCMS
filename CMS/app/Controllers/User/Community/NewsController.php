@@ -17,7 +17,7 @@ class Newscontroller extends BaseController
             return redirect()->back();
         }
 
-        echo view('user/community/news', ['newsData' => $newsDetails]);
+        return view('user/community/news', ['newsData' => $newsDetails]);
     }
 
 }

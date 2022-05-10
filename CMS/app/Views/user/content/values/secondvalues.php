@@ -30,7 +30,7 @@
           <tbody>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_elephant_statue_2_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_elephant_statue_2_icon.png" class="pixelated">
               </td>
               <td>Bronzen Olifant
               </td>
@@ -46,7 +46,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_elephant_statue_1_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_elephant_statue_1_icon.png" class="pixelated">
               </td>
               <td>Zilveren Olifant
               </td>
@@ -62,7 +62,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/cloud_egg_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/cloud_egg_icon.png" class="pixelated">
               </td>
               <td>Parelmoer Ei
               </td>
@@ -78,7 +78,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_chinahorse_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_chinahorse_icon.png" class="pixelated">
               </td>
               <td>Chinees Paard
               </td>
@@ -94,7 +94,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/cloud_throne_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/cloud_throne_icon.png" class="pixelated">
               </td>
               <td>Wolken Troon
               </td>
@@ -110,7 +110,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/poster2005_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/poster2005_icon.png" class="pixelated">
               </td>
               <td>Infobus
               </td>
@@ -126,7 +126,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/bolly_cherry_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/bolly_cherry_icon.png" class="pixelated">
               </td>
               <td>Kersenboom
               </td>
@@ -142,7 +142,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/doener_idabbo1_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/doener_idabbo1_icon.png" class="pixelated">
               </td>
               <td>Döner Machine
               </td>
@@ -158,7 +158,7 @@
             </tr>
             <tr>
               <td>
-                <img src="/bibliotheek/meubels/icon/rare_vdoll_icon.png" class="pixelated">
+                <img src="/nitro/dcr/hof_furni/icons/rare_vdoll_icon.png" class="pixelated">
               </td>
               <td>Voodoopop
               </td>

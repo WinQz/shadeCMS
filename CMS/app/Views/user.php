@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="/assets/css/magnific-popup.css?v=602">
     <link rel="stylesheet" href="/assets/css/selectric.css?v=602">
     <link rel="stylesheet" href="/assets/css/circle.css?v=601">
-    <link rel="stylesheet" href="/assets/css/web3.css?v=6011f2dds414">
+    <link rel="stylesheet" href="/assets/css/web3.css?v=6011f2dds421">
     <link rel="stylesheet" href="/assets/css/app.css?v=612">
     <link rel="stylesheet" href="/assets/css/web.responsive.css?v=602">
     <link rel="stylesheet" href="/assets/css/popup.css?v=601">
@@ -77,7 +77,7 @@
         </div>
         <?php else: ?>
         <div class="account-buttons">
-          <a href="/hotel" class="rounded-button white plain">Naar <?= getenv('hotel_name') ?>
+          <a href="/hotel" target="_blank" class="rounded-button white plain">Naar <?= getenv('hotel_name') ?>
           </a>
           <?php if($user->rank >= getenv('min_hk_rank')): ?>
           <span>of</span><a href="/admin/dashboard" class="rounded-button white plain">Admin Area
@@ -98,20 +98,6 @@
       <li class="navigation-item" data-category="index">
         <a href="/">Home
         </a>
-      </li>
-      <li class="navigation-item has-items" data-category="index">
-        <a href="#">Community
-        </a>
-        <ul class="navigation-submenu">
-          <li class="navigation-subitem">
-            <a href="/community/management">Management
-            </a>
-          </li>
-          <li class="navigation-subitem">
-            <a href="/community/values">Ruilwaarde
-            </a>
-          </li>
-        </ul>
       </li>
       <li class="navigation-item navigation-right-side-item has-items" style="position: relative; left: -5%;">
     <form method="POST" action="/community/search" style="position: relative; top: 17%; float: right; display: flex;">
@@ -158,6 +144,16 @@
           </li>
           <li class="navigation-subitem">
             <a href="/community/values">Ruilwaarde
+            </a>
+          </li>
+        </ul>
+      </li>
+	 <li class="navigation-item has-items" data-category="index">
+        <a href="#">Shop
+        </a>
+        <ul class="navigation-submenu">
+          <li class="navigation-subitem">
+            <a href="/shop/badgeshop">Badgeshop
             </a>
           </li>
         </ul>
@@ -273,7 +269,7 @@
 </script>
 <script src="/assets/js/functions.js?v=60">
 </script>
-<script src="/assets/js/web/loading.js?v=60">
+<script src="/assets/js/web/loading.js?v=81">
 </script>
 </body>
 </html>

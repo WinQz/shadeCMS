@@ -9,31 +9,31 @@ class PageController extends BaseController
 
     public function terms() {
 
-		echo view('user/content/information/terms');
+		return view('user/content/information/terms');
 
     }
 
     public function rules() {
 
-		echo view('user/content/information/rules');
+		return view('user/content/information/rules');
 
     }
 
     public function privacy() {
 
-		echo view('user/content/information/privacy');
+		return view('user/content/information/privacy');
 
     }
 
     public function value() {
 
-		echo view('user/content/values/value');
+		return view('user/content/values/value');
 
     }
 
     public function secondvalue() {
 
-		echo view('user/content/values/secondvalues');
+		return view('user/content/values/secondvalues');
 
     }
 

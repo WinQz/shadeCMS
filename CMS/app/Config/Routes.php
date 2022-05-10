@@ -41,6 +41,7 @@ $routes->group('', function ($routes) {
     $routes->get('/community/management', 'User\Community\StaffController::index');
 
     $routes->add('/profile/(:any)', 'User\Players\Profilecontroller::getProfile/$1');
+	$routes->post('/report/(:any)', 'User\Players\Profilecontroller::reportPlayer/$1');
     $routes->add('/news/(:any)', 'User\Community\Newscontroller::getNews/$1');
 
     $routes->post('/community/search', 'User\Players\Searchcontroller::searchUser');
@@ -71,6 +72,11 @@ $routes->group('', ['filter' => 'LoginFilter'], function ($routes) {
 $routes->group('', ['filter' => 'AdminFilter'], function ($routes) {
     $routes->get('/admin/dashboard', 'Admin/Content/PageController::dashboard');
     $routes->get('/admin/community/online', 'Admin/Players/Onlinecontroller::onlineUsers');
+	$routes->get('/admin/moderation/reports', 'Admin/Moderation/Reportcontroller::reportLogs');
+	$routes->get('/admin/moderation/login', 'Admin/Moderation/Loginusercontroller::getUsers');
+	
+	$routes->get('/admin/moderation/rcon', 'Admin\Moderation\RCON\Rconcontroller::getRcon');
+	$routes->post('/admin/moderation/rcon/alert', 'Admin\Moderation\RCON\Rconcontroller::sendRcon');
 });
 
 

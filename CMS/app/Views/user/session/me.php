@@ -6,12 +6,12 @@
 		<div class="left-side" style="height: auto !important;">
 		<article class="default-section profile-section" style="margin-bottom: 20px;">
   <div class="background-image">
-    <a href="/clienthtml" target="_blank" class="rounded-button white plain hotel-button enter-hotel">Ga naar <?= getenv('hotel_name') ?>
+    <a href="/hotel" target="_blank" class="rounded-button white plain hotel-button enter-hotel">Ga naar <?= getenv('hotel_name') ?>
     </a>
   </div>
   <div class="profile-content">
     <div class="header-image">
-      <img src="https://habbo.com/habbo-imaging/avatarimage?figure=<?= $user->look; ?>" width="64" height="110" class="figure">
+      <img src="<?= getenv('hotel_url') ?>/avatar/avatarimage.php?figure=<?= $user->look; ?>" width="64" height="110" class="figure">
     </div>
     <div class="stats">
       <div class="icons" style="background: url(/assets/images/hotel/purses/credits-icon.png) no-repeat center center;">

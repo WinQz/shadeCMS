@@ -19,6 +19,13 @@ class BadgeShopController extends BaseController
   
         return view('user/shop/badgeshop', ['shopBadges' => $shopBadges]);
     }
+	
+	public function getSessionId() {
+		
+		$userId = $this->session->get('user')->username;
+		
+		return $userId;
+	}
 
     public function buyBadge($badgeCode) {
 
@@ -27,7 +34,7 @@ class BadgeShopController extends BaseController
         $badgePurchase = $this->badgeShopModel->where('badge_code', $badgeCode)->first();
 
         $purchase = [
-            'user_id'     =>  $user->id,
+            'user_id'     =>  $this->getSessionId,
             'badge_code'  => $badgeCode,
         ];
         

@@ -8,7 +8,7 @@ class PageController extends BaseController
 {
     public function dashboard() {
 
-		echo view('admin/dashboard/information');
+		return view('admin/dashboard/information');
 
     }
 

@@ -16,6 +16,19 @@ CREATE TABLE `shade_badgeshop` (
   `price` int(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE IF NOT EXISTS `shade_reports` (
+  `id` int(255) NOT NULL AUTO_INCREMENT,
+  `reporter_id` int(255) NOT NULL DEFAULT '0',
+  `reporter_name` varchar(255) NOT NULL DEFAULT '0',
+  `report_context` varchar(255) NOT NULL,
+  `reported_id` int(255) NOT NULL DEFAULT '0',
+  `reported_name` varchar(255) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8;
+
 ALTER TABLE `shade_badgeshop`
   ADD PRIMARY KEY (`id`);
 COMMIT;
+
+ALTER TABLE users
+ADD account_down int(11) DEFAULT '0'

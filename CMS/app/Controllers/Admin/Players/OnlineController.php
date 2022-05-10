@@ -14,9 +14,9 @@ class Onlinecontroller extends BaseController
     public function onlineUsers() {
 
         $onlineUsers = $this->userModel->where('online', 2)->select('username, look')->orderBy('id', 'desc')->findAll();
-
-		echo view('admin/players/online', ['onlineUserData' => $onlineUsers]);
-
+			
+		return view('admin/players/online', ['onlineUserData' => $onlineUsers]);
+		
     }
 
 }

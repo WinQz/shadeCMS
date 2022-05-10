@@ -113,6 +113,24 @@
           </li>
         </ul>
       </li>
+	  <li class="navigation-item has-items" data-category="index">
+        <a href="#">Moderatie
+        </a>
+        <ul class="navigation-submenu">
+          <li class="navigation-subitem">
+            <a href="/admin/moderation/reports">Reports
+            </a>
+          </li>
+		  <li class="navigation-subitem">
+            <a href="/admin/moderation/login">Login Users
+            </a>
+          </li>
+		  <li class="navigation-subitem">
+            <a href="/admin/moderation/rcon">RCON
+            </a>
+          </li>
+        </ul>
+      </li>
     </ul>
    </li>
   </ul>
@@ -135,7 +153,7 @@
     <a href="https://discord.gg/AUAb9GKFm3" class="discord-button" target="_blank">
     </a>
   </div>
-  <div class="footer-copyright">&copy; 2020 yourhotelname |
+  <div class="footer-copyright">&copy; <?= getenv('hotel_name') ?> |
     <a href="/info/rules">De <?= getenv('hotel_name') ?> Regels
     </a> |
     <a href="/info/terms">Algemene voorwaarden
