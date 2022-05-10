@@ -1,5 +1,9 @@
 # shadeCMS
  The HabboCMS that does the heavy lifting.
+ <br>
+ Easy to configure with HTML5 Clients.
+ <br>
+ Better Nitro Support Under Development.
 
 # Installation
  You first need some information on what you need to install and configurate.
